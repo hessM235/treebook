@@ -1,0 +1,28 @@
+[33mcommit 5cb3b749317d2753301507bb8b5d45e16b8a8e39[m
+Author: Michael Hess <m.hess235@gmail.com>
+Date:   Sat Jun 20 03:18:12 2015 -0400
+
+    Updated frontend for the new authentication system
+    
+    Added simple_form
+    Updated several form to bootstrap/simple_form
+    added login/logout/register/profile link to nav
+    Added a collection select to status form
+
+[33mcommit 78ca1bca38330e2931c3b501f22f2ef5649cd0c7[m
+Author: Michael Hess <m.hess235@gmail.com>
+Date:   Fri Jun 19 19:13:04 2015 -0400
+
+    Installed devise, added a user, installed devise views.
+
+[33mcommit a9677a53bcc633b4fd1baf2bad4aee06f53378a4[m
+Author: Michael Hess <m.hess235@gmail.com>
+Date:   Mon Jun 15 14:19:21 2015 -0400
+
+    Added bootstrap and applied layout to page
+
+[33mcommit 4dcb3ced3d0bdcec8750ee7597ce90e088bce730[m
+Author: Michael Hess <m.hess235@gmail.com>
+Date:   Sun Jun 14 21:22:24 2015 -0400
+
+    Created a rails application and added status updates
