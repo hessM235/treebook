@@ -9,6 +9,10 @@ gem 'pg'
 gem 'devise'
 gem 'simple_form'
 
+ruby '2.0.0'
+
+
+
 
 
 
